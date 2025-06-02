@@ -1,0 +1,18 @@
+# Build Folders (bin, obj, etc.)
+[Bb]in/
+[Oo]bj/
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Visual Studio Code
+.vscode/
+# macOS
+.DS_Store
+# Windows image file caches
+Thumbs.db
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+# dotenv environment files
+.env
